@@ -46,7 +46,7 @@ html {
     width: 16.6667%;
 }
 
-grid__column-2-4 {
+.grid__column-2-4 {
     padding-left: 5px;
     padding-right: 5px;
     width: 20%;
@@ -184,6 +184,7 @@ grid__column-2-4 {
     padding: 10px 16px;
     list-style: none;
     display: none;
+    z-index: 1;
 }
 
 .select-input_link {
